@@ -40,3 +40,7 @@ Machine Learning Model Applied
 3. SVC (Support Vector Classifier)<br>
 4. Gaussian Naive Bayes<br>
 5. DecisionTreeClassifier<br>
+
+Execute Main.py file using streamlit to experience the Webapp
+
+streamlit run main.py
