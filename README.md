@@ -43,4 +43,4 @@ Machine Learning Model Applied
 
 Execute Main.py file using streamlit to experience the Webapp
 
-streamlit run main.py
+streamlit run Main.py
